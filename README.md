@@ -1,7 +1,7 @@
 # 收藏夹
-目标：多数人用得到 实用 好用 高频  
+内容要求：多数人用得到、实用、好用、高频  
 
 ## 仓库地址
-github地址: <https://github.com/wangyg1998/favorites>  
-码云地址: <https://gitee.com/wangyg1998/favorites>  
+- github地址: <https://github.com/wangyg1998/favorites>  
+- 码云地址: <https://gitee.com/wangyg1998/favorites>  
 
