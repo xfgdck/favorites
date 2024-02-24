@@ -1,4 +1,4 @@
-# 收藏夹
+# 收藏夹 [![Flag Counter](https://s01.flagcounter.com/mini/QK1R/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/)](https://info.flagcounter.com/QK1R)
 内容特点：多数人用得到、实用、好用、高频  
 
 ## 仓库地址
