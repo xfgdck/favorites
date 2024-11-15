@@ -4,7 +4,7 @@
 - GitHub地址: <https://github.com/wangyg1998/favorites>
 
 ## 内容
-[软件](./软件.md)、[网站](./网站.md)、[书籍](./书籍.md)
+[软件](./软件.md)
 
 
 
